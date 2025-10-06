@@ -1,0 +1,23 @@
+chromadb
+
+
+langchain
+langchain_community
+# Groq Integration
+langchain-groq
+
+
+langchain_huggingface
+sentence_transformers
+transformers
+huggingface-hub
+
+streamlit
+
+
+
+
+
+python-dotenv
+groq
+unstructured

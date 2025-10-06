@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Leave Policy",
+    "description": "Employees are entitled to 20 paid leaves per year, excluding public holidays."
+  },
+  {
+    "title": "Remote Work Policy",
+    "description": "Employees may work remotely up to 3 days a week upon manager approval."
+  },
+  {
+    "title": "Code of Conduct",
+    "description": "All employees are expected to maintain professionalism and ethical behavior in the workplace."
+  },
+  {
+    "title": "Work Hours",
+    "description": "Official work hours are from 9 AM to 6 PM, Monday to Friday. A 1-hour break is given for lunch."
+  },
+  {
+    "title": "Internet Usage Policy",
+    "description": "Internet resources should be used for work-related tasks only. Unauthorized downloads are prohibited."
+  },
+  {
+    "title": "Dress Code",
+    "description": "Employees are required to dress in business casual attire unless otherwise specified."
+  },
+  {
+    "title": "Performance Review",
+    "description": "Performance reviews are conducted annually to assess employee progress and set goals."
+  },
+  {
+    "title": "Travel Policy",
+    "description": "Business travel must be approved by the department head. Expenses will be reimbursed as per company guidelines."
+  },
+  {
+    "title": "Expense Reimbursement",
+    "description": "Employees must submit valid receipts for all expenses within 30 days to be eligible for reimbursement."
+  },
+  {
+    "title": "Confidentiality Agreement",
+    "description": "Employees must not disclose confidential company information to unauthorized persons."
+  },
+  {
+    "title": "Harassment Policy",
+    "description": "The company maintains a zero-tolerance policy towards harassment of any kind."
+  },
+  {
+    "title": "Equal Opportunity Policy",
+    "description": "The company is committed to providing equal employment opportunities regardless of race, gender, or religion."
+  },
+  {
+    "title": "Grievance Redressal",
+    "description": "Employees can report grievances to HR. All complaints will be handled confidentially."
+  },
+  {
+    "title": "Probation Period",
+    "description": "New employees are subject to a 3-month probation period before confirmation."
+  },
+  {
+    "title": "Resignation Policy",
+    "description": "Employees must provide at least 30 days' notice before resignation."
+  },
+  {
+    "title": "Promotion Policy",
+    "description": "Promotions are based on performance, experience, and organizational requirements."
+  },
+  {
+    "title": "Training and Development",
+    "description": "The company encourages employees to participate in training programs for skill enhancement."
+  },
+  {
+    "title": "Attendance Policy",
+    "description": "Employees must mark their attendance daily. Repeated absenteeism may lead to disciplinary action."
+  },
+  {
+    "title": "IT Security Policy",
+    "description": "Employees must use strong passwords and report any security breaches immediately."
+  },
+  {
+    "title": "Health and Safety Policy",
+    "description": "The company is committed to maintaining a safe and healthy work environment for all employees."
+  }
+]
