@@ -17,7 +17,7 @@ streamlit
 
 
 
-
+jq
 python-dotenv
 groq
 unstructured
