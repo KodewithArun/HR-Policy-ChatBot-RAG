@@ -255,7 +255,7 @@ with st.sidebar:
 # ---------------------------
 @st.cache_resource
 def load_qa_chain():
-    docs = load_json_documents("../data/hr_policy.json")
+    docs = load_json_documents("data/hr_policy.json")
     split_docs = split_documents(docs)
     embeddings = get_embeddings()
     vectorstore = create_vectorstore(split_docs, embeddings)
